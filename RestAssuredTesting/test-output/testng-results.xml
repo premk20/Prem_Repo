@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="2069" started-at="2019-12-27T11:00:39Z" finished-at="2019-12-27T11:00:41Z">
+  <suite name="Default suite" duration-ms="2147" started-at="2019-12-31T07:41:26Z" finished-at="2019-12-31T07:41:28Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="2069" started-at="2019-12-27T11:00:39Z" finished-at="2019-12-27T11:00:41Z">
+    <test name="Default test" duration-ms="2147" started-at="2019-12-31T07:41:26Z" finished-at="2019-12-31T07:41:28Z">
       <class name="ResponseBody">
-        <test-method status="PASS" signature="GetWeatherBody()[pri:0, instance:ResponseBody@7f9a81e8]" name="GetWeatherBody" duration-ms="2051" started-at="2019-12-27T16:30:39Z" finished-at="2019-12-27T16:30:41Z">
+        <test-method status="PASS" signature="GetWeatherBody()[pri:0, instance:ResponseBody@7f9a81e8]" name="GetWeatherBody" duration-ms="2124" started-at="2019-12-31T13:11:26Z" finished-at="2019-12-31T13:11:28Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- GetWeatherBody -->
